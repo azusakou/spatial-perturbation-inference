@@ -1,0 +1,20 @@
+package	version	scope
+data.table	1.18.2.1	core
+RANN	2.6.2	core
+igraph	2.2.2	core
+mgcv	1.9.4	core
+cluster	2.1.8.2	core
+Matrix	1.7.4	core
+edgeR	4.4.2	core
+limma	3.62.2	core
+statmod	1.5.1	core
+rhdf5	2.50.2	optional raw interface
+jsonlite	2.0.0	optional raw interface
+Seurat	5.4.0	optional raw interface
+harmony	1.2.4	optional raw interface
+matrixStats	1.5.0	optional raw holdout
+digest	0.6.39	optional raw holdout
+ggplot2	4.0.2	optional real-Clu plotting
+patchwork	1.3.2	optional real-Clu plotting
+svglite	2.2.2	optional real-Clu plotting
+ragg	1.5.1	optional real-Clu plotting
