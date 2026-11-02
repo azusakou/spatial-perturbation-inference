@@ -1,5 +1,5 @@
 ## Interpretation and evidence boundaries
-
+Code for: `Lyu, Z., Yu, Q., Yang, R., Shao, C., Yang, G. and Wang, Z., Source geometry and receiver ascertainment limit spatial perturbation inference. Computational and Structural Biotechnology Journal.`
 SPF is a diagnostic workflow for specified receiver scores and spatial references. Real Clu/DBiT tail fractions and BH-transformed fractions are **descriptive reference diagnostics**, without established general type-I-error/FDR control. Guide-selected receivers, unknown source assignment and graph-estimated source specifications do not meet the known-Q premises below. Legacy column names such as `permutation_p` and `fdr_within_chip` are retained for compatibility, not inferential guarantees. This restriction is separate from the documented mouse-paired edgeR and clinical outcome-label tests.
 
 The manuscript and response letters are separate deliverables. The prepared Reviewer Evidence companion supplies supported figures, plotting code, source-data tables and a reviewer index; this numerical package excludes that material. Preparation is not public deposition or journal upload.
